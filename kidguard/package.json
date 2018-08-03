@@ -1,0 +1,24 @@
+{
+  "name": "kidguard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "payment.spec.js",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "jasmine": "^3.1.0",
+    "nightmare": "^3.0.1"
+  },
+  "devDependencies": {
+    "jasmine-console-reporter": "^3.0.2"
+  },
+  "scripts": {
+    "test": "jasmine payment.spec.js",
+    "testa": "jasmine ./abstracted001/a/apayment.spec.js",
+    "testb": "jasmine ./abstracted001/b/bpayment.spec.js",
+    "testc": "jasmine ./abstracted001/c/cpayment.spec.js",
+    "testd": "jasmine ./abstracted001/d/dpayment.spec.js"
+  
+  },
+  "author": "",
+  "license": "ISC"
+}

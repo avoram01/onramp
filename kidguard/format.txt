@@ -1,0 +1,27 @@
+tests
+    homepage
+    lp
+    form
+        001
+            a
+                /* for each test, goto a specific link that you generate (fake data!!!) */
+                form.spec.js
+    payment
+
+
+
+funnel a
+https://www.kidguard.com/funnel/payment/011/a?first_name=Vernon&last_name=Swanson&email=zinoto%40mailinator.com&phone=%2B921-79-3649008&zipcode=20938&state=LA&site=cellmon&log_id=12574785&password=Pa%24%24w0rd!
+&password_verify=Pa%24%24w0rd!&secret_question_answer=Reprehenderit%20sunt%20voluptatibus%20non%20repudiandae%20q&secret_question=What%20was%20your%20first%20grade%20teacher%27s%20name%3F
+
+funnel b
+https://www.kidguard.com/funnel/payment/011/b?first_name=Vernon&last_name=Swanson&email=zinoto%40mailinator.com&phone=%2B921-79-3649008&zipcode=20938&state=LA&site=cellmon&log_id=12574785&password=Pa%24%24w0rd!
+&password_verify=Pa%24%24w0rd!&secret_question_answer=Reprehenderit%20sunt%20voluptatibus%20non%20repudiandae%20q&secret_question=What%20was%20your%20first%20grade%20teacher%27s%20name%3F
+
+funnel c
+https://www.kidguard.com/funnel/payment/011/c?first_name=Vernon&last_name=Swanson&email=zinoto%40mailinator.com&phone=%2B921-79-3649008&zipcode=20938&state=LA&site=cellmon&log_id=12574785&password=Pa%24%24w0rd!
+&password_verify=Pa%24%24w0rd!&secret_question_answer=Reprehenderit%20sunt%20voluptatibus%20non%20repudiandae%20q&secret_question=What%20was%20your%20first%20grade%20teacher%27s%20name%3F
+
+funnel d
+https://www.kidguard.com/funnel/payment/011/d?first_name=Vernon&last_name=Swanson&email=zinoto%40mailinator.com&phone=%2B921-79-3649008&zipcode=20938&state=LA&site=cellmon&log_id=12574785&password=Pa%24%24w0rd!
+&password_verify=Pa%24%24w0rd!&secret_question_answer=Reprehenderit%20sunt%20voluptatibus%20non%20repudiandae%20q&secret_question=What%20was%20your%20first%20grade%20teacher%27s%20name%3F

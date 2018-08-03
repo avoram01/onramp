@@ -1,0 +1,135 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'update', '-g' ]
+2 info using npm@3.5.2
+3 info using node@v6.11.4
+4 silly mapToRegistry name bower
+5 silly mapToRegistry using default registry
+6 silly mapToRegistry registry https://registry.npmjs.org/
+7 silly mapToRegistry uri https://registry.npmjs.org/bower
+8 silly mapToRegistry name gulp
+9 silly mapToRegistry using default registry
+10 silly mapToRegistry registry https://registry.npmjs.org/
+11 silly mapToRegistry uri https://registry.npmjs.org/gulp
+12 silly mapToRegistry name n
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/n
+16 silly mapToRegistry name nightmare
+17 silly mapToRegistry using default registry
+18 silly mapToRegistry registry https://registry.npmjs.org/
+19 silly mapToRegistry uri https://registry.npmjs.org/nightmare
+20 silly mapToRegistry name npm
+21 silly mapToRegistry using default registry
+22 silly mapToRegistry registry https://registry.npmjs.org/
+23 silly mapToRegistry uri https://registry.npmjs.org/npm
+24 silly mapToRegistry name npm-check
+25 silly mapToRegistry using default registry
+26 silly mapToRegistry registry https://registry.npmjs.org/
+27 silly mapToRegistry uri https://registry.npmjs.org/npm-check
+28 verbose request uri https://registry.npmjs.org/bower
+29 verbose request no auth needed
+30 info attempt registry request try #1 at 4:36:29 PM
+31 verbose request id 7941dbd7a7b30018
+32 http request GET https://registry.npmjs.org/bower
+33 verbose request uri https://registry.npmjs.org/gulp
+34 verbose request no auth needed
+35 info attempt registry request try #1 at 4:36:29 PM
+36 http request GET https://registry.npmjs.org/gulp
+37 verbose request uri https://registry.npmjs.org/npm-check
+38 verbose request no auth needed
+39 info attempt registry request try #1 at 4:36:29 PM
+40 http request GET https://registry.npmjs.org/npm-check
+41 verbose request uri https://registry.npmjs.org/n
+42 verbose request no auth needed
+43 info attempt registry request try #1 at 4:36:29 PM
+44 verbose etag W/"a32b2b3f2025635b37d588f9f3078ae1"
+45 verbose lastModified Mon, 11 Jun 2018 18:07:59 GMT
+46 http request GET https://registry.npmjs.org/n
+47 verbose request uri https://registry.npmjs.org/nightmare
+48 verbose request no auth needed
+49 info attempt registry request try #1 at 4:36:29 PM
+50 verbose etag W/"ebb4e4bf7df501cd06440bc5f40413e1"
+51 verbose lastModified Sun, 27 May 2018 09:48:02 GMT
+52 http request GET https://registry.npmjs.org/nightmare
+53 verbose request uri https://registry.npmjs.org/npm
+54 verbose request no auth needed
+55 info attempt registry request try #1 at 4:36:29 PM
+56 verbose etag W/"b4c76986387e5692eab7c23d031e4036"
+57 verbose lastModified Sun, 27 May 2018 10:41:59 GMT
+58 http request GET https://registry.npmjs.org/npm
+59 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+60 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+61 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+62 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+63 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+64 info attempt registry request try #2 at 4:36:49 PM
+65 http request GET https://registry.npmjs.org/bower
+66 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+67 info attempt registry request try #2 at 4:36:49 PM
+68 http request GET https://registry.npmjs.org/gulp
+69 info attempt registry request try #2 at 4:36:49 PM
+70 http request GET https://registry.npmjs.org/npm-check
+71 info attempt registry request try #2 at 4:36:49 PM
+72 verbose etag W/"a32b2b3f2025635b37d588f9f3078ae1"
+73 verbose lastModified Mon, 11 Jun 2018 18:07:59 GMT
+74 http request GET https://registry.npmjs.org/n
+75 info attempt registry request try #2 at 4:36:59 PM
+76 verbose etag W/"ebb4e4bf7df501cd06440bc5f40413e1"
+77 verbose lastModified Sun, 27 May 2018 09:48:02 GMT
+78 http request GET https://registry.npmjs.org/nightmare
+79 info attempt registry request try #2 at 4:36:59 PM
+80 verbose etag W/"b4c76986387e5692eab7c23d031e4036"
+81 verbose lastModified Sun, 27 May 2018 10:41:59 GMT
+82 http request GET https://registry.npmjs.org/npm
+83 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+84 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+85 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+86 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+87 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+88 info retry will retry, error on last attempt: Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+89 info attempt registry request try #3 at 4:37:59 PM
+90 http request GET https://registry.npmjs.org/bower
+91 info attempt registry request try #3 at 4:37:59 PM
+92 http request GET https://registry.npmjs.org/gulp
+93 info attempt registry request try #3 at 4:37:59 PM
+94 verbose etag W/"a32b2b3f2025635b37d588f9f3078ae1"
+95 verbose lastModified Mon, 11 Jun 2018 18:07:59 GMT
+96 http request GET https://registry.npmjs.org/n
+97 info attempt registry request try #3 at 4:37:59 PM
+98 http request GET https://registry.npmjs.org/npm-check
+99 info attempt registry request try #3 at 4:38:09 PM
+100 verbose etag W/"ebb4e4bf7df501cd06440bc5f40413e1"
+101 verbose lastModified Sun, 27 May 2018 09:48:02 GMT
+102 http request GET https://registry.npmjs.org/nightmare
+103 info attempt registry request try #3 at 4:38:09 PM
+104 verbose etag W/"b4c76986387e5692eab7c23d031e4036"
+105 verbose lastModified Sun, 27 May 2018 10:41:59 GMT
+106 http request GET https://registry.npmjs.org/npm
+107 silly get cb [ 304, undefined ]
+108 verbose etag https://registry.npmjs.org/n from cache
+109 verbose get saving n to /home/avoram01/.npm/registry.npmjs.org/n/.cache.json
+110 silly get cb [ 304, undefined ]
+111 verbose etag https://registry.npmjs.org/nightmare from cache
+112 verbose get saving nightmare to /home/avoram01/.npm/registry.npmjs.org/nightmare/.cache.json
+113 silly get cb [ 304, undefined ]
+114 verbose etag https://registry.npmjs.org/npm from cache
+115 verbose get saving npm to /home/avoram01/.npm/registry.npmjs.org/npm/.cache.json
+116 verbose stack Error: getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+116 verbose stack     at errnoException (dns.js:28:10)
+116 verbose stack     at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+117 verbose cwd /home/avoram01/Documents/nightmare
+118 error Linux 4.13.0-45-generic
+119 error argv "/usr/bin/node" "/usr/bin/npm" "update" "-g"
+120 error node v6.11.4
+121 error npm  v3.5.2
+122 error code ENOTFOUND
+123 error errno ENOTFOUND
+124 error syscall getaddrinfo
+125 error network getaddrinfo ENOTFOUND registry.npmjs.org registry.npmjs.org:443
+126 error network This is most likely not a problem with npm itself
+126 error network and is related to network connectivity.
+126 error network In most cases you are behind a proxy or have bad network settings.
+126 error network
+126 error network If you are behind a proxy, please make sure that the
+126 error network 'proxy' config is set properly.  See: 'npm help config'
+127 verbose exit [ 1, true ]
